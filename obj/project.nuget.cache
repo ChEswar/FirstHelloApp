@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kyp5+tUpHhYeRqowJ8Ru18cI0uC8N7OES0XQNxMInuHSqGfP8BKtkeBGY6IfmaVB8s64l4dzKzxhQr0n7sAtrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\inchesw\\source\\repos\\FirstHelloApp\\FirstHelloApp\\FirstHelloApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\inchesw\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
